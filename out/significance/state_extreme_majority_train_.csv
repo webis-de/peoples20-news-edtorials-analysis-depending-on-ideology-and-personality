@@ -1,0 +1,126 @@
+sep=;
+feature;is_normal (shapiro);is_homogeneous (levene);p_value;is_significant;effect;result;('challenging', 'reinforcing');('challenging', 'reinforcing');('challenging', 'no_effect');('challenging', 'no_effect');('reinforcing', 'no_effect');('reinforcing', 'no_effect')
+liwc_scores_analytic;False;False;0.5952639083026918;False;;;False;;False;;False;
+liwc_scores_authentic;False;False;0.3182258229810055;False;;;False;;False;;False;
+liwc_scores_categories_AllPunc;False;False;0.3784873202284981;False;;;False;;False;;False;
+liwc_scores_categories_Apostro;False;False;0.1892847738661658;False;;;False;;False;;False;
+liwc_scores_categories_Colon;False;False;0.3588057229897168;False;;;False;;False;;False;
+liwc_scores_categories_Comma;True;True;0.9927548121280724;False;;F(2,218)= 0.01, p = 0.9927548, ω2 = -0.01;False;;False;;False;
+liwc_scores_categories_Dash;False;False;0.47581835002124173;False;;;False;;False;;False;
+liwc_scores_categories_Exclam;False;False;0.40944162542741525;False;;;False;;same values;same values;False;
+liwc_scores_categories_OtherP;False;False;0.07236322265264253;False;;;False;;False;;False;
+liwc_scores_categories_Parenth;False;False;0.8988409690579763;False;;;False;;False;;False;
+liwc_scores_categories_Period;False;False;0.027726582186024893;True;;;False;;True;-0.27;False;
+liwc_scores_categories_QMark;False;False;0.9486485593303315;False;;;False;;False;;False;
+liwc_scores_categories_SemiC;False;False;0.4826632295756943;False;;;False;;False;;False;
+liwc_scores_categories_achieve;False;False;0.7595983238866596;False;;;False;;False;;False;
+liwc_scores_categories_adj;True;True;0.06595889890379751;False;;F(2,218)= 2.75, p = 0.0659589, ω2 = 0.02;False;;False;;False;
+liwc_scores_categories_adverb;True;True;0.9407553205513766;False;;F(2,218)= 0.06, p = 0.9407553, ω2 = -0.01;False;;False;;False;
+liwc_scores_categories_affect;True;True;0.5571659071389761;False;;F(2,218)= 0.59, p = 0.5571659, ω2 = -0.00;False;;False;;False;
+liwc_scores_categories_affiliation;False;False;0.9386020470454384;False;;;False;;False;;False;
+liwc_scores_categories_anger;False;False;0.7850474996306286;False;;;False;;False;;False;
+liwc_scores_categories_anx;False;False;0.28701100051876716;False;;;False;;False;;False;
+liwc_scores_categories_article;False;False;0.05481525586362899;False;;;False;;False;;False;
+liwc_scores_categories_assent;False;False;0.4813586785722367;False;;;False;;False;;False;
+liwc_scores_categories_auxverb;True;True;0.7427935542517903;False;;F(2,218)= 0.30, p = 0.7427936, ω2 = -0.01;False;;False;;False;
+liwc_scores_categories_bio;False;False;0.9530921421198135;False;;;False;;False;;False;
+liwc_scores_categories_body;False;False;0.5365848251800226;False;;;False;;False;;False;
+liwc_scores_categories_cause;False;False;0.04698207421732202;True;;;False;;False;;True;0.18
+liwc_scores_categories_certain;True;False;0.9057564336509732;False;;;False;;False;;False;
+liwc_scores_categories_cogproc;True;True;0.5001777124113229;False;;F(2,218)= 0.69, p = 0.5001777, ω2 = -0.00;False;;False;;False;
+liwc_scores_categories_compare;False;False;0.01604321192952762;True;;;False;;True;0.28;True;0.2
+liwc_scores_categories_conj;True;True;0.34049142905418694;False;;F(2,218)= 1.08, p = 0.3404914, ω2 = 0.00;False;;False;;False;
+liwc_scores_categories_death;False;False;0.22362970684519357;False;;;False;;False;;False;
+liwc_scores_categories_differ;False;False;0.49076304948876337;False;;;False;;False;;False;
+liwc_scores_categories_discrep;False;False;0.15602113039566806;False;;;False;;False;;False;
+liwc_scores_categories_drives;False;False;0.004026957563332846;True;;;False;;True;0.33;True;0.22
+liwc_scores_categories_family;False;False;0.7785083783176803;False;;;False;;False;;False;
+liwc_scores_categories_feel;False;False;0.6270596199756249;False;;;False;;False;;False;
+liwc_scores_categories_female;False;False;0.6937849165167574;False;;;False;;False;;False;
+liwc_scores_categories_filler;False;False;0.980175174690433;False;;;False;;False;;False;
+liwc_scores_categories_focusfuture;False;False;0.39688754862701214;False;;;False;;False;;False;
+liwc_scores_categories_focuspast;False;False;0.40859652597489593;False;;;False;;False;;False;
+liwc_scores_categories_focuspresent;True;True;0.10191397369863921;False;;F(2,218)= 2.31, p = 0.1019140, ω2 = 0.01;False;;False;;False;
+liwc_scores_categories_friend;False;False;0.21240900754231573;False;;;False;;False;;False;
+liwc_scores_categories_function;False;False;0.21257563135937035;False;;;False;;False;;False;
+liwc_scores_categories_health;False;False;0.994811006547563;False;;;False;;False;;False;
+liwc_scores_categories_hear;False;False;0.33219043142903415;False;;;False;;False;;False;
+liwc_scores_categories_home;False;False;0.06768814622910034;False;;;False;;False;;False;
+liwc_scores_categories_i;False;False;0.7739275518860573;False;;;False;;False;;False;
+liwc_scores_categories_informal;False;False;0.4675379357714098;False;;;False;;False;;False;
+liwc_scores_categories_ingest;False;False;0.2036054187163416;False;;;False;;False;;False;
+liwc_scores_categories_insight;False;False;0.34692930145553164;False;;;False;;False;;False;
+liwc_scores_categories_interrog;False;False;0.16248089792983794;False;;;False;;False;;False;
+liwc_scores_categories_ipron;True;True;0.463546437538921;False;;F(2,218)= 0.77, p = 0.4635464, ω2 = -0.00;False;;False;;False;
+liwc_scores_categories_leisure;False;False;0.75044476296469;False;;;False;;False;;False;
+liwc_scores_categories_male;False;False;0.010012505858919992;True;;;False;;True;-0.28;True;-0.21
+liwc_scores_categories_money;False;False;0.7250763600178692;False;;;False;;False;;False;
+liwc_scores_categories_motion;False;False;0.6282883095096605;False;;;False;;False;;False;
+liwc_scores_categories_negate;False;False;0.49904840206944123;False;;;False;;False;;False;
+liwc_scores_categories_negemo;False;False;0.15237819928249022;False;;;False;;False;;False;
+liwc_scores_categories_netspeak;False;False;0.7016969559999251;False;;;False;;False;;False;
+liwc_scores_categories_nonflu;False;False;0.489138769871037;False;;;False;;False;;False;
+liwc_scores_categories_number;False;False;0.30397398421870764;False;;;False;;False;;False;
+liwc_scores_categories_percept;False;False;0.0037110717166459507;True;;;True;0.2;False;;True;-0.19
+liwc_scores_categories_posemo;False;False;0.33257340014720055;False;;;False;;False;;False;
+liwc_scores_categories_power;False;False;0.01628229582119507;True;;;False;;False;;True;0.21
+liwc_scores_categories_ppron;False;False;0.2275581548847987;False;;;False;;False;;False;
+liwc_scores_categories_prep;True;True;0.9419937582765108;False;;F(2,218)= 0.06, p = 0.9419938, ω2 = -0.01;False;;False;;False;
+liwc_scores_categories_pronoun;False;False;0.5080296513521835;False;;;False;;False;;False;
+liwc_scores_categories_quant;False;False;0.020363575589555337;True;;;False;;False;;True;0.21
+liwc_scores_categories_relativ;False;False;0.20355400025439263;False;;;False;;False;;False;
+liwc_scores_categories_relig;False;False;0.18176800749883343;False;;;False;;False;;False;
+liwc_scores_categories_reward;False;False;0.5846076938750264;False;;;False;;False;;False;
+liwc_scores_categories_risk;False;False;0.0027992030053140358;True;;;False;;True;0.4;False;
+liwc_scores_categories_sad;False;False;0.3812182218970026;False;;;False;;False;;False;
+liwc_scores_categories_see;False;False;0.0018668125136736876;True;;;True;0.22;False;;True;-0.2
+liwc_scores_categories_sexual;False;False;0.3065481220001399;False;;;False;;False;;False;
+liwc_scores_categories_shehe;False;False;0.01638065950240811;True;;;False;;False;;True;-0.2
+liwc_scores_categories_social;False;False;0.64320583579328;False;;;False;;False;;False;
+liwc_scores_categories_space;False;False;0.26049903647598893;False;;;False;;False;;False;
+liwc_scores_categories_swear;False;False;0.7314589237591766;False;;;False;;False;;False;
+liwc_scores_categories_tentat;False;False;0.9321008342466032;False;;;False;;False;;False;
+liwc_scores_categories_they;False;False;0.14935053157660588;False;;;False;;False;;False;
+liwc_scores_categories_time;False;False;0.7762690690517398;False;;;False;;False;;False;
+liwc_scores_categories_verb;True;True;0.7089685693651591;False;;F(2,218)= 0.34, p = 0.7089686, ω2 = -0.01;False;;False;;False;
+liwc_scores_categories_we;False;False;0.7016794834371682;False;;;False;;False;;False;
+liwc_scores_categories_work;False;False;0.1196345008388546;False;;;False;;False;;False;
+liwc_scores_categories_you;False;False;0.6615535237676224;False;;;False;;False;;False;
+liwc_scores_clout;False;False;0.1754550404895607;False;;;False;;False;;False;
+liwc_scores_dic;False;False;0.09778391426717928;False;;;False;;False;;False;
+liwc_scores_sixLtr;True;True;0.006409236740253441;True;low;F(2,218)= 5.17, p = 0.0064092, ω2 = 0.04;False;;True;-0.33;True;-0.17
+liwc_scores_tone;False;False;0.19392613501364475;False;;;False;;False;;False;
+liwc_scores_wc;False;False;0.87008111346127;False;;;False;;False;;False;
+liwc_scores_wps;False;False;0.3093180671083088;False;;;False;;False;;False;
+nrc_anger;False;False;0.491911113733282;False;;;False;;False;;False;
+nrc_anticipation;False;False;0.10969855666142928;False;;;False;;False;;False;
+nrc_disgust;False;False;0.48039246696166216;False;;;False;;False;;False;
+nrc_fear;False;False;0.05298281509561031;False;;;False;;True;0.29;False;
+nrc_joy;False;False;0.3634798418346959;False;;;False;;False;;False;
+nrc_negative;False;False;0.11634085047229474;False;;;False;;False;;False;
+nrc_positive;False;False;0.13651907888126122;False;;;False;;False;;False;
+nrc_ratio;True;True;0.005253178882851087;True;low;F(2,218)= 5.38, p = 0.0052532, ω2 = 0.04;True;-0.2;True;-0.27;False;
+nrc_sadness;False;False;0.426696195278481;False;;;False;;False;;False;
+nrc_surprise;False;False;0.019470986876265018;True;;;False;;False;;True;0.21
+nrc_trust;False;False;0.002714385945525644;True;;;False;;False;;True;0.24
+adu_anecdote;False;False;0.03475768155490599;True;;;False;;False;;True;0.19
+adu_other;False;False;0.575579721663293;False;;;False;;False;;False;
+adu_statistics;False;False;0.25487741218921256;False;;;False;;False;;False;
+adu_testimony;False;False;0.4152034764663398;False;;;False;;False;;False;
+mpqa_arg_assessments;False;False;0.5474036645597142;False;;;False;;False;;False;
+mpqa_arg_authority;False;False;0.045887737660014256;True;;;False;;False;;False;
+mpqa_arg_causation;False;False;0.809196663028395;False;;;False;;False;;False;
+mpqa_arg_conditionals;False;False;0.6038932051314456;False;;;False;;False;;False;
+mpqa_arg_contrast;False;False;0.44615026315852413;False;;;False;;False;;False;
+mpqa_arg_difficulty;False;False;0.5912935234600033;False;;;False;;False;;False;
+mpqa_arg_doubt;False;False;0.6434282524108421;False;;;False;;False;;False;
+mpqa_arg_emphasis;False;False;0.10655952356559392;False;;;False;;False;;False;
+mpqa_arg_generalization;False;False;0.055941540718218476;False;;;False;;False;;False;
+mpqa_arg_inconsistency;False;False;0.018991684547428396;True;;;False;;False;;True;-0.18
+mpqa_arg_lexicon_ratio;True;True;0.5217162327901006;False;;F(2,218)= 0.65, p = 0.5217162, ω2 = -0.00;False;;False;;False;
+mpqa_arg_necessity;False;False;0.2605575627797795;False;;;False;;False;;False;
+mpqa_arg_possibility;False;False;0.9738226439226603;False;;;False;;False;;False;
+mpqa_arg_priority;False;False;0.29662924109564137;False;;;False;;False;;False;
+mpqa_arg_structure;False;False;0.17777596022467543;False;;;False;;False;;False;
+mpqa_arg_wants;False;False;0.635986026023574;False;;;False;;False;;False;
+mpqa_subjobg_obj;True;True;0.30464238290022116;False;;F(2,218)= 1.20, p = 0.3046424, ω2 = 0.00;False;;False;;False;
