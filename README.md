@@ -26,7 +26,7 @@ Roxanne El Baff, Khalid Al-Khatib, Benno Stein and Henning Wachstmuth
 
 ### Dependency
 Python version: 3.6.
-the *codes* folder contain the experiments for each reader profile.
+the *code* folder contain the experiments for each reader profile.
 
 
 
